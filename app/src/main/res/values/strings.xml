@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeightRegister</string>
+    <string name="button_to_add_a_weight_register">Add a weight register</string>
+    <string name="empty_list_text">Lista vazia!</string>
 </resources>
